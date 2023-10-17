@@ -1,6 +1,6 @@
-# handwired/cpg_cringe
+# handwired/cpg/cringe
 
-![handwired/cpg_cringe](imgur.com image replace me!)
+![handwired/cpg/cringe](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
